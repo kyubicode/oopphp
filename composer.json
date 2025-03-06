@@ -1,0 +1,15 @@
+{
+    "name": "sigit/oop",
+    "description": "riview oop",
+    "autoload": {
+        "psr-4": {
+            "Sigit\\Oop\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sigit"
+        }
+    ],
+    "require": {}
+}
