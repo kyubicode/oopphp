@@ -1,6 +1,5 @@
 <?php
-
-namespace Sigit\Oop\App;
+namespace App;
 
 class Test {
 
