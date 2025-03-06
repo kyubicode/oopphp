@@ -1,7 +1,7 @@
 <?php
 namespace App\Controllers;
 
-class UserModel{
+class User{
 
     public function home(){
         return 'home';
