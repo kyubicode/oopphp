@@ -3,7 +3,8 @@
     "description": "riview oop",
     "autoload": {
         "psr-4": {
-            "Sigit\\Oop\\": "src/"
+           "App\\":"src/App/",
+           "Sigit\\":"src/Sigit"
         }
     },
     "authors": [

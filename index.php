@@ -1,2 +1,6 @@
 <?php
-echo "hello world from builtin web server php ";
+use Sigit\Router;
+
+require 'vendor/autoload.php';
+
+$router = new Router;
